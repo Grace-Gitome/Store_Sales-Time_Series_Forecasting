@@ -1,6 +1,10 @@
 # Store Sales-Time Series Forecasting
 Use machine learning to predict grocery sales
 
+## Objective
+Use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
+Specifically,build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+
 ## Dataset Description
 Prediction sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.
 
